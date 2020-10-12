@@ -151,7 +151,7 @@
 					<div class="link">
 						<span class="icon icon-pinterest2"></span>
 					</div>
-				</a>a>
+				</a>
 
 				<a href="#">
 					<div class="link">
