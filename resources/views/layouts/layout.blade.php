@@ -199,9 +199,7 @@
 
 	<link rel="stylesheet" href="{{asset('assets/include/fancybox/jquery.fancybox.min.css')}}">
 	<script src="{{asset('assets/include/fancybox/jquery.fancybox.min.js')}}"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDULTfOWzHbNLG7xE44MhxdrkHLEUXOxDs&libraries=geometry"></script>
-
-
+	<script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&libraries=geometry"></script>
 
 	<script src="{{asset('assets/js/scripts.js')}}"></script>
 @show

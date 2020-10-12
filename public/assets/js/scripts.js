@@ -129,7 +129,7 @@ jQuery(document).ready(function() {
 
 			let html = '<div class="item">' +
 				'<div class="title">'+
-					(i+1)+') '+el.title+//1) Main office
+					(i+1)+') '+el.title+
 				'</div>' +
 				'<div class="icon icon-location2"></div>'+
 				'<div class="description">' +

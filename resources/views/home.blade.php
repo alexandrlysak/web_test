@@ -340,62 +340,10 @@
 </section>
 
 <div class="hidden">
-
-		<div id="searchResult">
-
-			<div class="main-title"></div>
-
-			{{-- <div id="google_map_search" class="map"></div> --}}
-
-			<div id="google_map_search" contenteditable="true" style = "height: 450px; width: 100%;"></div>
-
-			<div class="offices-wrapper flex">
-				
-				{{-- <div class="item">
-					<div class="title">
-						1) Main office
-					</div>
-					<div class="description">
-						<div class="address">
-							261-263 Phan XichLong Street
-						</div>
-						<div class="city">
-							Phu Nhuan District, Ho Shi Minh City
-						</div>
-						<div class="zip">
-							70030
-						</div>
-						<div class="country">
-							Vietnam
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="title">
-						2) Main office
-					</div>
-					<div class="description">
-						<div class="address">
-							261-263 Phan XichLong Street
-						</div>
-						<div class="city">
-							Phu Nhuan District, Ho Shi Minh City
-						</div>
-						<div class="zip">
-							70030
-						</div>
-						<div class="country">
-							Vietnam
-						</div>
-					</div>
-				</div>
-				--}}
-
-				
-				
-			</div>
-
-		</div>
-
+	<div id="searchResult">
+		<div class="main-title"></div>
+		<div id="google_map_search" contenteditable="true" style = "height: 450px; width: 100%;"></div>
+		<div class="offices-wrapper flex"></div>
 	</div>
+</div>
 @endsection
