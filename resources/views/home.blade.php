@@ -115,7 +115,7 @@
 			Search
 		</div>
 		<div class="content">
-			<input id="searchZipInput" type="text" value="HELLO" placeholder="Search ...">
+			<input id="searchZipInput" type="text" placeholder="Search ..." autocomplete="off">
 			<button> <span class="icon icon-search"></span> Search </button>
 		</div>
 		<div class="message"></div>
